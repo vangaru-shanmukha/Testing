@@ -1,1 +1,2 @@
 message feature1
+message feature2 
